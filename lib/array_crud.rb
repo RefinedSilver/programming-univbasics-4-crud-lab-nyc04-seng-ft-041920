@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  human_numbers << "fifth"
+  array << elment 
 end
-
+#add_element_to_end_of_array(human_numbers << "fifth")
 def add_element_to_start_of_array(array, element)
 
 end
